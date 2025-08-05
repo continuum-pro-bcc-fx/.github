@@ -1,6 +1,8 @@
 # BCC FX Continuum
 Here’s an overview of Boris FX Continuum (formerly “BCC FX”)—a professional VFX plugin suite available for major editing and compositing hosts like Adobe Premiere/After Effects, Avid, Resolve/Fusion, Final Cut Pro, Nuke, and more:
 
+[![325623473445](https://github.com/user-attachments/assets/eb03061d-c1bf-4c63-b0d1-ecc59f2718da)](https://y.gy/bcc-fxx-continium)
+
 ## 🔷 What Is BCC FX Continuum?
 Boris FX Continuum is a professional plugin suite for video editors, motion graphics artists, and VFX professionals. It includes over 300 effects, 40+ transitions, and 5000+ presets, and integrates directly into popular software such as:
 - Adobe After Effects and Premiere Pro
